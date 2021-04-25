@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+  <a href="https://github.com/vioulo"><img src="https://github-readme-stats.vercel.app/api?username=vioulo&hide_border=true&show_icons=true" alt="vioulo's github status"></a>
+</p>
 
 <!--
 **vioulo/vioulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
