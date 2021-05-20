@@ -5,7 +5,9 @@
   <img src="https://www.redditstatic.com/gold/awards/icon/Trinity_128.png" />
   <img src="https://www.redditstatic.com/gold/awards/icon/TakeMyPower_128.png" />
 </h3>
-
+<h3>
+  <img src="https://www.spacemacs.org/img/mono-logo.svg" />
+</h3>
 <!--
 **vioulo/vioulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
