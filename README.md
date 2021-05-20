@@ -1,6 +1,7 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> wooola</h3>
 <h3>
+  <img src="https://www.redditstatic.com/gold/awards/icon/Starstruck_128.png" />
   <img src="https://www.redditstatic.com/gold/awards/icon/Trinity_128.png" />
   <img src="https://www.redditstatic.com/gold/awards/icon/TakeMyPower_128.png" />
 </h3>
