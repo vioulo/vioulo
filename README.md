@@ -6,7 +6,7 @@
   <img src="https://www.redditstatic.com/gold/awards/icon/TakeMyPower_128.png" />
 </h3>
 <h3>
-  <img src="https://www.spacemacs.org/img/mono-logo.svg" />
+  敬畏自然，热爱生活
 </h3>
 <!--
 **vioulo/vioulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
