@@ -4,6 +4,7 @@
   <img src="https://www.redditstatic.com/gold/awards/icon/Starstruck_128.png" />
   <img src="https://www.redditstatic.com/gold/awards/icon/Trinity_128.png" />
   <img src="https://www.redditstatic.com/gold/awards/icon/TakeMyPower_128.png" />
+  <img src="https://www.cryptokitties.co/images/ether-diamond.gif" />
 </h3>
 <h3>
   敬畏自然，热爱生活
