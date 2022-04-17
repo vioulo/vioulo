@@ -6,7 +6,7 @@
   <img src="https://www.redditstatic.com/gold/awards/icon/TakeMyPower_128.png" />
   <img src="https://www.cryptokitties.co/images/ether-diamond.gif" />
   <img src="https://gtk-rs.org/logo/gtk-rs.svg" width="123"/>
-  <img src="https://browser.kagi.com/public/images/orion-circle.png" />
+  <img src="https://browser.kagi.com/public/images/orion-circle.png" width="141">
 </h3>
 <h3>
   敬畏自然，热爱生活
