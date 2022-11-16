@@ -11,6 +11,7 @@
 <div>
   <img src="https://obsidian.md/images/gem.svg" width="123">
   <img src="https://obsidian.md/images/book.svg" width="123">
+  <img src="https://github.githubassets.com/images/modules/site/eyebrow-banner-icon-unicat22.png" width="123">
 </div>
 <h3>
   敬畏自然，热爱生活
