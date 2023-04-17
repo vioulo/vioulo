@@ -1,5 +1,8 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> Have a nice day !</h3>
+<h3>
+  <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> Have a nice day ! 
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+</h3>
+
 <div>
   <img src="https://www.redditstatic.com/gold/awards/icon/Starstruck_128.png" />
   <img src="https://www.redditstatic.com/gold/awards/icon/Trinity_128.png" />
@@ -14,7 +17,7 @@
   <img src="https://github.githubassets.com/images/modules/site/eyebrow-banner-icon-unicat22.png" width="123">
 </div>
 <h3>
-  敬畏自然，热爱生活
+  爱 - 正义 - 好奇心
 </h3>
 <!--
 **vioulo/vioulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
