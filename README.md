@@ -12,9 +12,9 @@
   <img src="https://browser.kagi.com/public/images/orion-circle.png" width="123">
 </div>
 <div>
-  <img src="https://obsidian.md/images/gem.svg" width="123">
-  <img src="https://obsidian.md/images/book.svg" width="123">
-  <img src="https://github.githubassets.com/images/modules/site/eyebrow-banner-icon-unicat22.png" width="123">
+<!--   <img src="https://obsidian.md/images/gem.svg" width="123"> -->
+<!--   <img src="https://obsidian.md/images/book.svg" width="123"> -->
+<!--   <img src="https://github.githubassets.com/images/modules/site/eyebrow-banner-icon-unicat22.png" width="123"> -->
 </div>
 <h3>
   爱 - 正义 - 好奇心
